@@ -4,17 +4,6 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "dependencies": {
-    "@emotion/react": "11.10.5",
-    "@emotion/styled": "11.10.5",
-    "@material/fab": "14.0.0",
-    "@mui/icons-material": "5.10.16",
-    "@mui/material": "5.10.17",
-    "@types/react-dom": "18.0.9",
-    "react": "18.3.0-next-fecc288b7-20221025",
-    "react-dom": "18.3.0-next-fecc288b7-20221025",
-    "react-scripts": "5.1.0-next.14"
-  },
   "devDependencies": {
     "typescript": "3.3.3"
   },
@@ -29,5 +18,16 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@material/fab": "^14.0.0",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.8",
+    "@types/react-dom": "^18.0.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
 }
